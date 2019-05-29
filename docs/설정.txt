@@ -37,7 +37,18 @@
 									|		|		|--- /mappers
 									|		|		|		|--- user.xml
 									|		|		|		|--- ....
+									|		|--- /properties
+									|		|		|----- jdbc.propeties
 									|--- /web
+									|		|--- MVCConfig
+									|		|--- SecurityConfig
+									|		|--- MessageConfig
+									|		|--- FileUploadConfig
+									|		|--- /messages
+									|		|		|---- messages_ko.properties
+									|		|--- /properties
+									|		|		|---- multipart.properties 		         
+									
 							
 					
 	
